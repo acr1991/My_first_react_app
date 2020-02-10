@@ -8,11 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Visit <code>therowntree.com</code> This app was created with React
+          <code>Welcome to Codaisseur</code>
         </h1>
         <a
           className="App-link"
-          href="https://therowntree.com"
+          href="https://codaisseur.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
